@@ -1,2 +1,3 @@
 # MyBlogs
-Focus on explaining programming in a simple way that makes it easy for anyone to master.
+专注于以简单的方式说明编程，使任何人都可以轻松掌握。
+这事我的博客分享地方，如果你有兴趣同我一起交流，学习请联系我的邮箱Is_Dmy@163.com
